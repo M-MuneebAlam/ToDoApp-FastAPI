@@ -90,4 +90,4 @@ pytest test.py
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License.](LICENSE)
