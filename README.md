@@ -15,13 +15,13 @@ DailyDo is a FastAPI-based Todo application that allows users to create, retriev
 project-root/
 │── dailydo_todo_app/
 │   ├── __init__.py
-│   ├── main.py  # Main FastAPI application, API routes, SQLModel, Database setup
-│   ├── settings.py  # Configuration settings
-│── test.py  # Pytest test cases
+│   ├── main.py         # Main FastAPI application, API routes, SQLModel, Database setup
+│   ├── settings.py     # Configuration settings
+│── test.py             # Pytest test cases
 │   ├── __init__.py
-│   ├── test_main.py  # Test cases for API endpoints
-│── .env  # Environment variables
-│── pyproject.toml  # Poetry project configuration
+│   ├── test_main.py    # Test cases for API endpoints
+│── .env                # Environment variables
+│── pyproject.toml      # Poetry project configuration
 │── README.md  # Documentation
 ```
 
